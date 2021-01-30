@@ -69,4 +69,7 @@ function viewReceipt() {
     document.getElementById('economic-class-purchase').innerText = purchaseEconomicNew;
 
     document.getElementById('purchase-total').innerText = purchaseTotal;
+
+    
+
 }
